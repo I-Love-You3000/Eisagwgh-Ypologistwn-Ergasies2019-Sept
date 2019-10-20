@@ -1,0 +1,4 @@
+-ALL MODULES INSTALLED USING PIP INSTALL
+Magic
+Comment_parser
+Cryptocompare
